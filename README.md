@@ -1,2 +1,1 @@
-# My-Project
-My codings...
+# My-Codings
